@@ -1,0 +1,19 @@
+{
+  "name": "wikileaks-hype-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbindustries/wikileaksanalytics-hype-site.git"
+  },
+  "author": "Philip Bankier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbindustries/wikileaksanalytics-hype-site/issues"
+  },
+  "homepage": "https://github.com/pbindustries/wikileaksanalytics-hype-site#readme"
+}
